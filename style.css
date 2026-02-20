@@ -14,7 +14,7 @@ body{
     background-color: #1f2937;
     color: #f9faf8;
     padding: 8px;
-    padding-bottom: 100px;
+    padding-bottom: 80px;
 }
 
 .left{
@@ -131,16 +131,19 @@ button{
 
 .quote{
     background-color: #e5e7eb;
-    padding: 36px;
+    padding: 48px;
     font-size: 36px;
     color: #1f2937;
+    text-align: center;
 }
 
 
 h3{
+    font-size: 36px;
     text-align: end;
     color: black;
-    font-weight: 900;
+    font-weight: bold;
+    text-align: center;
 }
 
 .Forthsection{
@@ -160,7 +163,8 @@ h3{
 .Forthsection{
     display: flex;
     justify-content: space-around;
-    padding-top: 40px;
+    padding: 40px;
+
 }
 
 .call{
