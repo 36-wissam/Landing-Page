@@ -1,0 +1,48 @@
+body{
+    font-family:Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    padding: 0;
+    margin: 0;
+
+}
+
+.container{
+    background-color: #1f2937;
+    color: #f9faf8;
+    padding: 40px;
+}
+
+.hero{
+    font-size: 48px;
+    font-weight: 900;
+    color: #f9faf8;
+    padding-top: 100px;
+
+}
+
+.SecondHero{
+    font-size: 18px;
+    color: #e5e7eb;
+
+}
+
+.Hlogo{
+    font-size: 24px;
+    color: #f9faf8;
+    padding-top: 25px;
+    font-weight: 900;
+}
+
+ul{
+    list-style-type: none;
+}
+
+button{
+    background-color: #3882f6;
+    border: 0;
+    border-radius: 5px;
+    font-size: 20px;
+    color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+    cursor: pointer;
+}
